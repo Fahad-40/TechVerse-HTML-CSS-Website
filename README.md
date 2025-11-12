@@ -5,9 +5,9 @@ A modern and responsive website built using **HTML**, **CSS**, and a touch of **
 ---
 
 ## 🚀 Live Demo
-🔗 **Website:** [Add your live website link here]  
+🔗 **Website:** https://dapper-nougat-ef992c.netlify.app  
 <br>
-💾 **GitHub Repository:** [Add your GitHub repo link here]
+💾 **GitHub Repository:** https://github.com/Fahad-40/TechVerse-HTML-CSS-Website.git
 
 ## 🧠 About the Project
 **TechVerse** is a personal learning project designed to practice front-end development fundamentals.  
