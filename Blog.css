@@ -1,0 +1,90 @@
+.sub-header .sub-header-blogs-text{
+    font-size: 19px;
+    color:#fff;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+.sub-header {
+    height: 80vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.6)), url(Assets/Images/blog_banner2.webp);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+.blog-content{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+}
+.blog-left{
+    flex-basis: 65%;
+}
+.blog-left img {
+    width: 100%;
+}
+.blog-left h2{
+    color: #222;
+    font-weight: 600;
+    margin: 30px 0;
+}
+.blog-right{
+    flex-basis: 32%;
+}
+.blog-right h3{
+   background: rgb(90, 101, 129);
+   color: #fff;
+   padding: 7px 0;
+   font-size: 16px;
+   margin-bottom: 20px;
+}
+.blog-right div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #555;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.blog-right .blog-category-titles{
+    cursor: pointer;
+    transition: ease-in 0.3s ;
+}
+.blog-right .blog-category-titles:hover{
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid #374151;
+    background-color:  #374151;
+}
+.comment-box{
+    border: 1px solid #ccc;
+    margin: 50px 0;
+    padding: 10px 20px;
+}
+.comment-box h3{
+    text-align: left;
+}
+.comment-form input, .comment-form textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: #f0f0f0;
+
+}
+.hero-btn{
+    color: #374151;
+    border: 1px solid #374151;
+    font-size: 15px;
+}
+.hero-btn:hover{
+    color: #fff;
+    border: 1px solid #374151;
+}
