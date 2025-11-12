@@ -6,7 +6,6 @@ A modern and responsive website built using **HTML**, **CSS**, and a touch of **
 
 ## 🚀 Live Demo  
 🔗 **Website:** https://dapper-nougat-ef992c.netlify.app  
-<br>  
 💾 **GitHub Repository:** https://github.com/Fahad-40/TechVerse-HTML-CSS-Website.git
 ---
 
