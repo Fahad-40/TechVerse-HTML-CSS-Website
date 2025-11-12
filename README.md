@@ -9,6 +9,8 @@ A modern and responsive website built using **HTML**, **CSS**, and a touch of **
 <br>
 💾 **GitHub Repository:** https://github.com/Fahad-40/TechVerse-HTML-CSS-Website.git
 
+---
+
 ## 🧠 About the Project
 **TechVerse** is a personal learning project designed to practice front-end development fundamentals.  
 It focuses on building a **clean layout**, **responsive design**, and a **smooth user experience** — all without using frameworks like Bootstrap.  
