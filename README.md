@@ -71,6 +71,7 @@ TechVerse
 Let’s connect and learn together!  
 
 🌍 **LinkedIn:** www.linkedin.com/in/fahad-muneer40
+<br>
 💻 **GitHub:** https://github.com/Fahad-40
 
 ---
