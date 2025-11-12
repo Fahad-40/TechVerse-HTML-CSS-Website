@@ -35,7 +35,7 @@ The project showcases how simple HTML and CSS can be used to create a modern-loo
 
 ## 📁 Folder Structure
 TechVerse/
-│
+```│
 ├── index.html
 ├── about.html
 ├── services.html
@@ -48,4 +48,4 @@ TechVerse/
 │ └── script.js
 │
 └── images/
-└── (all website images)
+└── (all website images)```
