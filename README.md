@@ -32,3 +32,20 @@ The project showcases how simple HTML and CSS can be used to create a modern-loo
 - **JavaScript (Vanilla)** – back to top button functionality  
 
 ---
+
+## 📁 Folder Structure
+TechVerse/
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+└── images/
+└── (all website images)
