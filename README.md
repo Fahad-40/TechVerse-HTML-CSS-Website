@@ -17,6 +17,25 @@ The project showcases how simple HTML and CSS can be used to create a modern-loo
 
 ---
 
+## 📁 Folder Structure
+TechVerse
+```│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+└── images/
+└── (all website images)
+```
+---
+
 ## 💡 Features
 ✅ Fully responsive layout  
 ✅ Smooth navigation bar  
@@ -33,19 +52,28 @@ The project showcases how simple HTML and CSS can be used to create a modern-loo
 
 ---
 
-## 📁 Folder Structure
-```TechVerse
-│
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-│
-├── css/
-│ └── style.css
-│
-├── js/
-│ └── script.js
-│
-└── images/
-└── (all website images)
+## 📈 What I Learned
+- How to build and style a full website from scratch  
+- Basics of responsive design using media queries  
+- How to structure HTML and CSS files efficiently  
+- Adding simple interactivity with JavaScript  
+
+---
+
+## 🎯 Future Improvements
+- Add more animations and transitions  
+- Integrate form validation  
+- Add dark mode feature  
+
+---
+
+## 🤝 Connect with Me
+Let’s connect and learn together!  
+
+🌍 **LinkedIn:** www.linkedin.com/in/fahad-muneer40
+💻 **GitHub:** https://github.com/Fahad-40
+
+---
+
+⭐ *If you like this project, don’t forget to star the repository!*
+
